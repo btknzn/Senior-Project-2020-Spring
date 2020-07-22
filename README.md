@@ -4,3 +4,4 @@ Amyotrophic Lateral Sclerosis (ALS), also known as motor neuron disease, is a di
 The project detects the amount of blink in spesific time and understand the meaning of blink. For example, ıf there is 2 blinks in 10 seconds, which means the user want apple as desired food and raspberry pi is going to show Apple image.
 
 You can see my project video:
+https://www.youtube.com/watch?v=vWidheM0WRg&feature=youtu.be
