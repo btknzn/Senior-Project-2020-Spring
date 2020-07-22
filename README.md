@@ -5,3 +5,6 @@ The project detects the amount of blink in spesific time and understand the mean
 
 You can see my project video:
 https://www.youtube.com/watch?v=vWidheM0WRg&feature=youtu.be
+
+User should also download shape_predictor_68_face_landmarks.dat for Dlib library.
+
